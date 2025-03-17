@@ -1,0 +1,54 @@
+[
+    {
+        "policyReference": null,
+        "policyId": null,
+        "claimReference": null,
+        "claimId": null,
+        "purchaseOrderReference": null,
+        "voucherCode": "CQ5-1VO-A5L",
+        "issueDate": "2025-01-01",
+        "expiryDate": "2025-02-28",
+        "redemptionDate": "2025-02-04",
+        "maximumAmount": 1550.00,
+        "redemptionAmount": 1500.00
+    },
+    {
+        "policyReference": null,
+        "policyId": null,
+        "claimReference": null,
+        "claimId": null,
+        "purchaseOrderReference": null,
+        "voucherCode": "YLI-30D-IVC",
+        "issueDate": "2025-01-01",
+        "expiryDate": "2025-02-28",
+        "redemptionDate": "2025-02-04",
+        "maximumAmount": 1750.00,
+        "redemptionAmount": 1562.27
+    },
+    {
+        "policyReference": null,
+        "policyId": null,
+        "claimReference": null,
+        "claimId": null,
+        "purchaseOrderReference": null,
+        "voucherCode": "24Y-JQ1-V6V",
+        "issueDate": "2025-01-01",
+        "expiryDate": "2025-02-28",
+        "redemptionDate": "2025-02-04",
+        "maximumAmount": 1800.00,
+        "redemptionAmount": 1562.27
+    },
+    {
+        "policyReference": null,
+        "policyId": null,
+        "claimReference": null,
+        "claimId": null,
+        "purchaseOrderReference": null,
+        "voucherCode": "ZC8-B5I-OU1",
+        "issueDate": "2025-01-01",
+        "expiryDate": "2025-02-28",
+        "redemptionDate": "2025-02-04",
+        "maximumAmount": 1950.00,
+        "redemptionAmount": 1881.31
+    }
+]
